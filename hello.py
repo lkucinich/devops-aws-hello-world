@@ -1,3 +1,5 @@
+# create simple Flask app for demo
+
 from flask import Flask
 app = Flask(__name__)
 
